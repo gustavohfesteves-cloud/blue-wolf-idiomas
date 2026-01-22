@@ -7,7 +7,7 @@ export default function Login() {
       {/* Background Image - O Rosto do Lobo */}
       <div className="absolute inset-0 z-0">
          <Image 
-           src="/assets/login_wolf.jpg" 
+           src="/assets/login_wolf.jpeg" 
            alt="Blue Wolf Background" 
            fill
            className="object-cover opacity-80"
@@ -48,3 +48,4 @@ export default function Login() {
     </div>
   );
 }
+
