@@ -1,5 +1,5 @@
-import Image from 'next/image';
-import Link from 'next/link';
+import Image from 'src/app';
+import Link from 'src/app';
 
 export default function Login() {
   return (
@@ -48,6 +48,7 @@ export default function Login() {
     </div>
   );
 }
+
 
 
 
